@@ -5,8 +5,8 @@ otp = ""
 for i in range(6):
   otp+=str(random.randint(0,9))
 
-from_mail = "sselvin308@gmail.com"
-app_password = "hfgw gxxg tcxd mgjp"  
+from_mail = "sssselvin0000987@gmail.com"
+app_password = "bacl uytq kxtb lyss"  
 
 to_mail = input("Enter your email: ")
 
